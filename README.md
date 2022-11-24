@@ -7,7 +7,7 @@
 - 🧑‍💻 I'm a Full Stack developer.
 - 👯 My main technologies are NestJS and Angular.
 - 💪 My goal is to provide solutions using those technogies.
-- 💬 Ask me about SOLID principal, NestJS, Angular and Typescript.
+- 💬 Ask me about SOLID principals, NestJS, Angular and Typescript.
 - 📫 How to reach me: [website](http://www.biralimohamed.online), [email](mailto:mohamed.birali@outlook.com).
 
 ##### Languages I primary use
