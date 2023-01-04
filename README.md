@@ -18,7 +18,6 @@
 ##### Tools I primary use
 ![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql&logoColor=fffff)
-![NX](https://img.shields.io/badge/-NX-000000?style=flat&logo=NX&logoColor=fffff)
 
 #### Frameworks and Libraries I primary use
 
@@ -26,8 +25,6 @@
 [![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=dd0132)](https://angular.io/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap)](https://getbootstrap.com/)
 [![TypeORM](https://img.shields.io/badge/-TypeORM-000000?style=flat&logo=#)](https://typeorm.io/#/)
-[![RxJs](https://img.shields.io/badge/-RxJs-000000?style=flat&logo=rxjs)](https://typeorm.io/#/)
-[![Ngrx](https://img.shields.io/badge/-Ngrx-000000?style=flat&logo=ReactiveX&logoColor=ba2bd3)](https://ngrx.io/)
 
 [github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
