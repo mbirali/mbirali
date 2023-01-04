@@ -18,6 +18,7 @@
 ##### Tools I primary use
 ![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql&logoColor=fffff)
+![NX](https://img.shields.io/badge/-NX-000000?style=flat&logo=NX&logoColor=fffff)
 
 #### Frameworks and Libraries I primary use
 
