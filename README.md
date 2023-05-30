@@ -23,7 +23,7 @@
 
 [![NestJS](https://img.shields.io/badge/-Nest-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://nestjs.com/)
 [![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=dd0132)](https://angular.io/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap)](https://getbootstrap.com/)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=Tailwindcss)](https://tailwindcss.com/)
 [![TypeORM](https://img.shields.io/badge/-TypeORM-000000?style=flat&logo=#)](https://typeorm.io/#/)
 
 [github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
