@@ -1,8 +1,6 @@
 ### Hi there 👋, welcome to my github 
 
-[![Github][github-shield]][author-github]
 [![LinkedIn][linkedin-shield]][author-linkedin]
-[![Instagram][instagram-shield]][author-instagram]
 
 - 🧑‍💻 I'm a Full Stack developer.
 - 👯 My main technologies are NestJS and Angular.
