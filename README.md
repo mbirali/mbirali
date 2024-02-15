@@ -15,14 +15,15 @@
 
 ##### Tools I primary use
 ![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql&logoColor=fffff)
 ![Postgres](https://img.shields.io/badge/-postgresql-000000?style=flat&logo=postgresql&logoColor=fffff)
+![Firebase](https://img.shields.io/badge/-firebase-000000?style=flat&logo=firebase&logoColor=fffff)
 
 #### Frameworks and Libraries I primary use
 
 [![NestJS](https://img.shields.io/badge/-Nest-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://nestjs.com/)
 [![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=dd0132)](https://angular.io/)
 [![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat&logo=Tailwindcss)](https://tailwindcss.com/)
+[![Prisma](https://img.shields.io/badge/-Prisma-000000?style=flat&logo=Prisma#)]([https://typeorm.io/#/](https://www.prisma.io/))
 [![TypeORM](https://img.shields.io/badge/-TypeORM-000000?style=flat&logo=#)](https://typeorm.io/#/)
 
 [github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
