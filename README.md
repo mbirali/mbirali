@@ -3,22 +3,24 @@
 [![LinkedIn][linkedin-shield]][author-linkedin]
 
 - 🧑‍💻 I'm a Full Stack developer.
-- 👯 My main technologies are NestJS and Angular.
-- 💪 My goal is to provide solutions using those technogies.
-- 💬 Ask me about SOLID principales, NestJS, Angular and Typescript.
+- 👯 Main technologies i work with are NestJS and Angular.
+- 💪 My goal is to provide solutions fullowing best practices.
+- 💬 Ask me about NestJS, Angular and Typescript ...
 - 📫 How to reach me: [email](mailto:mohamed.birali@outlook.com).
+- 💼 My project: [CRMS](https://aioneprod.web.app/)
 
-##### Languages I primary use
+### What i primary use: 
+##### Languages:
 
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript&logoColor=6f97cc)
 ![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
 
-##### Tools I primary use
+##### Tools:
 ![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![Postgres](https://img.shields.io/badge/-postgresql-000000?style=flat&logo=postgresql&logoColor=fffff)
 ![Firebase](https://img.shields.io/badge/-firebase-000000?style=flat&logo=firebase&logoColor=fffff)
 
-#### Frameworks and Libraries I primary use
+#### Frameworks and Libraries:
 
 [![NestJS](https://img.shields.io/badge/-Nest-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://nestjs.com/)
 [![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=dd0132)](https://angular.io/)
