@@ -6,8 +6,8 @@
 - 👯 Main technologies i work with are NestJS and Angular.
 - 💪 My goal is to provide solutions following best practices.
 - 💬 Ask me about NestJS, Angular and Typescript.
-- 📫 How to reach me: [email](mailto:mohamed.birali@outlook.com).
 - 💼 My project: [CRMS](https://aioneprod.web.app/).
+- 📫 How to reach me: [email](mailto:mohamed.birali@outlook.com).
 
 ### What i primary use: 
 ##### Languages:
