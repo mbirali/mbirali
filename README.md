@@ -2,7 +2,7 @@
 
 [![LinkedIn][linkedin-shield]][author-linkedin]
 
-- 🧑‍💻 I'm a Full Stack developer.
+- 🧑‍💻 I'm an Angular Developer.
 - 👯 Main technologies i work with are NestJS and Angular.
 - 💪 My goal is to provide solutions following best practices.
 - 💬 Ask me about NestJS, Angular and Typescript.
