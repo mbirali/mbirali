@@ -6,6 +6,7 @@
 - 👯 Main technologies i work with are NestJS and Angular.
 - 💪 My goal is to provide solutions following best practices.
 - 💬 Ask me about NestJS, Angular and Typescript.
+- 🎯 I'm good at logic.
 - 💼 Portfolio: [mohamed-birali](https://mohamed-birali.pages.dev)
 - 📫 How to reach me: [email](mailto:mohamed.birali@outlook.com)
 
