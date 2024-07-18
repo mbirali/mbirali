@@ -33,6 +33,5 @@
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
-[author-linkedin]: https://www.linkedin.com/in/mohamed-birali/
-[author-instagram]: https://www.instagram.com/mohamed_birali/
-[author-github]: https://github.com/mohamedpierre
+[author-linkedin]: https://www.linkedin.com/in/mbirali/
+[author-github]: https://github.com/mohamedbirali
