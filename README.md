@@ -29,9 +29,6 @@
 [![Prisma](https://img.shields.io/badge/-Prisma-000000?style=flat&logo=Prisma#)]([https://typeorm.io/#/](https://www.prisma.io/))
 [![TypeORM](https://img.shields.io/badge/-TypeORM-000000?style=flat&logo=#)](https://typeorm.io/#/)
 
-### Support
-<a href="https://www.buymeacoffee.com/mbirali"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=mbirali&button_colour=40DCA5&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
 [github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
