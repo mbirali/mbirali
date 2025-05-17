@@ -7,7 +7,6 @@
 - 💪 My goal is to provide solutions following best practices.
 - 💬 Ask me about NestJS, Angular and Typescript.
 - 🎯 I'm good at logic.
-- 💼 Portfolio: [mbirali](https://mbirali.com)
 - 📫 How to reach me: [email](mailto:mohamed.birali@outlook.com)
 
 ### What i primary use: 
