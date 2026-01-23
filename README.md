@@ -2,25 +2,25 @@
 
 [![LinkedIn][linkedin-shield]][author-linkedin]
 
-- 🧑‍💻 I'm an Angular Developer.
-- 👯 Main technologies i work with are NestJS and Angular.
-- 💪 My goal is to provide solutions following best practices.
-- 💬 Ask me about NestJS, Angular and Typescript.
-- 🎯 I'm good at logic.
-- 📫 How to reach me: [email](mailto:mohamed.birali@outlook.com)
+- I'm an Angular Developer
+- Main technologies i work with are NestJS and Angular
+- My goal is to provide solutions following best practices
+- Ask me about NestJS, Angular and Typescript
+- I'm good at logic
+- How to reach me: [email](mailto:mohamed.birali@outlook.com)
 
-### What i primary use: 
-##### Languages:
+### What i primary use
+#### Languages
 
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript&logoColor=6f97cc)
 ![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
 
-##### Databases:
+#### Databases
 ![Postgres](https://img.shields.io/badge/-Postgresql-000000?style=flat&logo=postgresql&logoColor=fffff)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=fffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=fffff)
 
-#### Frameworks and Libraries:
+#### Frameworks and Libraries
 ![Nodejs](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 [![NestJS](https://img.shields.io/badge/-Nest-000000?style=flat&logo=NestJS&logoColor=ed1543)](https://nestjs.com/)
 [![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular&logoColor=dd0132)](https://angular.io/)
