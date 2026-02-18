@@ -34,5 +34,4 @@
 
 [author-linkedin]: https://www.linkedin.com/in/mbirali/
 [author-github]: https://github.com/mohamedbirali
-[]:
-https://komarev.com/ghpvc/?username=mbirali
+
